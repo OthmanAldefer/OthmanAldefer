@@ -11,5 +11,6 @@ int main()
     for (int i = 0; i < a; i++)
     {
         cout << "say hello" << endl;
+        cout << a;
     }
 }
