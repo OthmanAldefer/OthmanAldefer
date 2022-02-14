@@ -4,7 +4,7 @@ using namespace std;
 int main()
 {
     cout << "hello, world!";
-    cout << "I added this new lines";
+    cout << "I love you." << endl;
     int a = 0;
     return 0;
     for (int i = 0; i < a; i++)
